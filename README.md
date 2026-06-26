@@ -92,11 +92,11 @@ A full-stack task management application with authentication and CRUD operations
 
 ## 📫 Connect With Me
 
-- Email: krishan8974783135@gmail.com
-- GitHub: [Krishan-Das](https://github.com/Krishan-Das)
-- LinkedIn: [Krishan Das](https://www.linkedin.com/in/krishan-das-93951433a/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.linkedin.com/in/krishan-das-93951433a/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([আপনার_লিঙ্কডইন_লিঙ্ক](https://www.linkedin.com/in/krishan-das-93951433a/))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krishan-das-93951433a/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Krishan-Das)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/code_by_krish/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/@code_by_krish?si=bEd_SLPFvLgZUu4t)
 
 ---
 
