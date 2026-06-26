@@ -1,5 +1,5 @@
 # Hi 👋, I'm Krishan
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pZ3E0N3R3NXp5N3U3YnZmb3U0Z3pyM2VwOWg1N2N2eHd3bXF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5Maddvq/giphy.gif" align="right" width="350" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pZ3E0N3R3NXp5N3U3YnZmb3U0Z3pyM2VwOWg1N2N2eHd3bXF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5Maddvq/giphy.gif" align="right" width="350" />
 
 🎓 Computer Science & Engineering Student
 
@@ -16,37 +16,20 @@
 
 ## 🛠 Tech Stack
 
-### Languages
-- C
-- Java
-- C++
-- JavaScript
-- Dart
-- HTML
-- CSS
-- Python
+### Languages & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,react,tailwind" />
+</p>
 
-### Frontend
-- React.js
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Mobile Development
-- Flutter
+### Backend, Database & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dart,flutter" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ## 📚 Currently Learning
 
@@ -76,8 +59,10 @@ A full-stack task management application with authentication and CRUD operations
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
