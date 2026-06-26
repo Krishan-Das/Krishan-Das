@@ -1,4 +1,5 @@
 # Hi 👋, I'm Krishan
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pZ3E0N3R3NXp5N3U3YnZmb3U0Z3pyM2VwOWg1N2N2eHd3bXF5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqiU5Maddvq/giphy.gif" align="right" width="350" />
 
 🎓 Computer Science & Engineering Student
 
