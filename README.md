@@ -1,5 +1,5 @@
 # Hi 👋, I'm Krishan
-<img align="right" width="350" src="assets/coding.gif" />
+<img align="right" width="350" src="./assets/Coding.gif" />
 
 🎓 Computer Science & Engineering Student
 
