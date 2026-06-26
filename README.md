@@ -95,7 +95,8 @@ A full-stack task management application with authentication and CRUD operations
 - Email: krishan8974783135@gmail.com
 - GitHub: [Krishan-Das](https://github.com/Krishan-Das)
 - LinkedIn: [Krishan Das](https://www.linkedin.com/in/krishan-das-93951433a/)
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([আপনার_লিঙ্কডইন_লিঙ্ক](https://www.linkedin.com/in/krishan-das-93951433a/))
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://www.linkedin.com/in/krishan-das-93951433a/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([আপনার_লিঙ্কডইন_লিঙ্ক](https://www.linkedin.com/in/krishan-das-93951433a/))
 
 ---
 
