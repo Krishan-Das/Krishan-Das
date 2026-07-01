@@ -60,8 +60,7 @@ A full-stack task management application with authentication and CRUD operations
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishan-Das&theme=tokyonight" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 ---
