@@ -80,7 +80,7 @@ A full-stack task management application with authentication and CRUD operations
 
 
 <p align="left">
-  <a href="krishan8974783135@gmail.com">
+  <a href="mailto:krishan8974783135@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
