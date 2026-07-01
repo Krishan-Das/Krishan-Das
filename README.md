@@ -96,9 +96,11 @@ A full-stack task management application with authentication and CRUD operations
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 
+<!--
   <a href="https://youtube.com/@code_by_krish">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
+  -->
 </p>
 
 
