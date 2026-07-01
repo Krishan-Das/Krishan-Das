@@ -60,8 +60,8 @@ A full-stack task management application with authentication and CRUD operations
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ A full-stack task management application with authentication and CRUD operations
 
 
 <p align="left">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="krishan8974783135@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
