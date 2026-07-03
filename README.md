@@ -60,7 +60,7 @@ A full-stack task management application with authentication and CRUD operations
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishan-Das&theme=tokyonight" width="100%" alt="GitHub Streak Stats" />
+  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishan-Das&theme=tokyonight" width="100%" alt="GitHub Streak Stats" />](https://streak-stats.demolab.com?user=Krishan-Das&theme=tokyonight)
 </p>
 
 ---
