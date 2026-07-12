@@ -1,5 +1,5 @@
 # Hi 👋, I'm Krishan
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=2500&pause=700&color=D4AF37&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;DSA+Enthusiast;Open+to+Software+Engineering+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=2500&pause=700&color=58A6FF&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;DSA+Enthusiast;Open+to+Software+Engineering+Opportunities)](https://git.io/typing-svg)
 
 💻 Passionate about Full Stack Development, Problem Solving, and Software Engineering.
 
