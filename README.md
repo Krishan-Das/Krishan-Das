@@ -36,12 +36,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishan-Das&theme=radical&no-frame=true&margin-w=15"/>
+  <img src="https://raw.githubusercontent.com/Krishan-Das/Krishan-Das/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
-
 
 ---
 
