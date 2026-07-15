@@ -46,11 +46,6 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Krishan-Das&show_icons=true&theme=radical&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Das&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Krishan-Das&theme=radical&hide_border=true"/>
 </p>
 
