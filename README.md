@@ -6,11 +6,13 @@
 </p>
 
 <!-- Typing Animation -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;DSA+Enthusiast;AI/ML+Explorer;Always+Learning+🚀"/>
   </a>
 </p>
+
 
 💻 Passionate about Full Stack Development, Problem Solving, and Software Engineering.  
 ✨ Exploring AI-powered solutions with creativity and innovation.
@@ -37,9 +39,11 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krishan-Das&theme=radical&no-frame=true&margin-w=15"/>
 </p>
+
 
 ---
 
@@ -63,9 +67,11 @@
 ---
 
 ## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krishan-Das/Krishan-Das/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 ---
 
