@@ -36,11 +36,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krishan-Das/Krishan-Das/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
 ---
 
